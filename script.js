@@ -8,10 +8,10 @@ let namePrompt = prompt("Name your pet!");
 
 let memberCount = prompt("Feed, Pet, or Walk");
 
-for (let i = 0; i < 6; i++) {
-  console.log('my loop index +++', i);
+for (let i = 0; i < 6; i++){
+  console.log ('Loop');
 }
-
+  
 
 console.log("Hey Astro");
 console.log("Testing");
